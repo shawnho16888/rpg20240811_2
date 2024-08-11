@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":false,"name":"故事結尾","order":9,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"別墅 1F","order":5,"parentId":6,"scrollX":720.8888888888889,"scrollY":473.3333333333333},
+{"id":3,"expanded":false,"name":"道具商店","order":6,"parentId":6,"scrollX":819,"scrollY":439.5},
+{"id":4,"expanded":false,"name":"石窟","order":10,"parentId":0,"scrollX":1216.5,"scrollY":780.75},
+{"id":5,"expanded":true,"name":"世界 1","order":1,"parentId":0,"scrollX":1092,"scrollY":586},
+{"id":6,"expanded":true,"name":"普通城鎮","order":3,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1158},
+{"id":7,"expanded":true,"name":"石窟","order":2,"parentId":5,"scrollX":1081.3333333333333,"scrollY":827.3333333333334},
+{"id":8,"expanded":true,"name":"旅館 1F","order":4,"parentId":6,"scrollX":884.7272727272727,"scrollY":480.54545454545456},
+{"id":9,"expanded":true,"name":"漂浮城市","order":7,"parentId":0,"scrollX":1568,"scrollY":1244},
+{"id":10,"expanded":false,"name":"惡魔城堡 3F","order":8,"parentId":9,"scrollX":1151.111111111111,"scrollY":709.7777777777778},
+{"id":11,"expanded":false,"name":"漂浮城市","order":11,"parentId":0,"scrollX":1214.2222222222222,"scrollY":1824.4444444444443},
+{"id":12,"expanded":false,"name":"塔樓 1F","order":12,"parentId":0,"scrollX":1081.3333333333333,"scrollY":851.3333333333334},
+{"id":13,"expanded":false,"name":"冰窟","order":13,"parentId":0,"scrollX":2808,"scrollY":1506.8571428571427},
+{"id":14,"expanded":true,"name":"漂浮城市","order":14,"parentId":0,"scrollX":1769.4545454545455,"scrollY":1150.909090909091},
+{"id":15,"expanded":false,"name":"惡魔城堡 3F","order":15,"parentId":14,"scrollX":973.3333333333334,"scrollY":628.8888888888889},
+{"id":16,"expanded":false,"name":"故事結尾","order":16,"parentId":0,"scrollX":728,"scrollY":390.6666666666667}
+]

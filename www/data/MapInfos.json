@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Ending","order":9,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"別墅 1F","order":5,"parentId":6,"scrollX":1228.5,"scrollY":659.25},
+{"id":3,"expanded":false,"name":"道具商店","order":6,"parentId":6,"scrollX":1228.5,"scrollY":659.25},
+{"id":4,"expanded":false,"name":"被詛咒的洞窟","order":10,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1440.8571428571427},
+{"id":5,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":1404,"scrollY":753.4285714285713},
+{"id":6,"expanded":true,"name":"Normal Town","order":3,"parentId":0,"scrollX":1216.5,"scrollY":659.25},
+{"id":7,"expanded":true,"name":"Stone Cave","order":2,"parentId":5,"scrollX":1081.3333333333333,"scrollY":854},
+{"id":8,"expanded":false,"name":"Inn 1F","order":4,"parentId":6,"scrollX":1228.5,"scrollY":659.25},
+{"id":9,"expanded":true,"name":"Floating City","order":7,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1464.8571428571427},
+{"id":10,"expanded":false,"name":"Demon Castle 3","order":8,"parentId":9,"scrollX":1390.2857142857142,"scrollY":926.5714285714286},
+{"id":11,"expanded":true,"name":"漂浮城市","order":11,"parentId":0,"scrollX":1515,"scrollY":991.5},
+{"id":12,"expanded":false,"name":"惡魔城堡 3F","order":12,"parentId":11,"scrollX":1390.2857142857142,"scrollY":856.2857142857142}
+]
